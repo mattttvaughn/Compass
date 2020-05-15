@@ -86,3 +86,7 @@ lint/tmp/
 
 # big demo files
 /demo/demo.mp4
+
+# vim undo files
+*.un~
+.*.un~
